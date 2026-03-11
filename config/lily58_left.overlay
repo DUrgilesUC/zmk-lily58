@@ -31,7 +31,7 @@
         spi-max-frequency = <4000000>;
         
         /* === AQUÍ ESTÁ TU PRUEBA DE 5 LEDS === */
-        chain-length = <5>; 
+        chain-length = <2>; 
         
         spi-one-frame = <0x70>;
         spi-zero-frame = <0x40>;
